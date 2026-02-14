@@ -246,17 +246,3 @@ We show two live flows:
 This is the kind of agent that **only makes sense in an agent‑native hackathon**: it runs 24/7, reads your txs, learns your behavior, and protects you without you having to think about it.
 
 ---
-
-## 8. Roadmap (Post‑Hackathon)
-
-- Integrate more Solana DeFi protocols (Kamino, Raydium, Meteora).
-- Deeper wallet behavior analytics (pattern‑based scam detection).
-- Optional: use hygiene score as a signal in **on‑chain credit** (ClawCredit, etc.).
-- Browser extension / direct wallet plugin so Medio can sit in front of any Solana dApp.
-
----
-
-If you want, next I can:
-
-- Trim this into a **90-second spoken pitch** script, or  
-- Start giving you the actual `express` + TypeScript backend scaffolding (`/analyze-tx` + basic risk engine).# medio
